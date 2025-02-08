@@ -1,4 +1,4 @@
-module hello-grpc/test2
+module github.com/username/my-go-module
 
 go 1.23.1
 
